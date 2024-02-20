@@ -1,0 +1,90 @@
+body {
+background: rgb(234, 234, 234);
+}
+
+header {
+color: rgb(25, 7, 127);
+font-family: "Kode Mono", monospace;
+text-align: center;
+
+}
+
+.foto_0 {
+    margin-left: 30%;
+    height: 50%;
+    width: 40%;
+}
+
+main {
+border: 1px solid rgb(148, 146, 146);
+background: rgb(255, 255, 255);
+border-radius: 6px;
+margin-right: 15%;
+margin-left: 15%;
+padding-bottom: 1%;
+margin-top: 1%;
+}
+
+#cluh {
+    margin-top: 4px;
+    margin-left: 2%;
+    font-size: 8px;
+}
+
+#luth {
+    margin-top: -10px;
+    margin-left: 5%;
+    font-size: 8px;
+}
+
+article {
+    background: white;
+    margin-top: 15px;
+    padding: 20px;
+    border: 1px solid rgb(148, 146, 146);
+    border-radius: 6px;
+    margin-right: 15%;
+    margin-left: 15%;
+}
+
+#poleCquotes {
+    font-size: 11px;
+    font-family: "Oswald", sans-serif;
+}
+
+#podpis {
+    font-size: 10px;
+}
+
+#Update {
+    font-size: 8px;
+}
+
+footer {
+    margin-top: 30px;
+    padding: 20px;
+    background: rgb(77, 77, 77);
+    border: 1px solid rgb(218, 215, 215);
+    border-radius: 6px;
+    color: white;
+    margin-right: 15%;
+    margin-left: 15%;
+}
+
+#pravila {
+    margin-top: -17px;
+    font-size: 7px;
+    padding-left: 80%;
+}
+
+#mani {
+padding-top: 0px;
+font-size: 11px;
+}
+
+#mani a {
+    color: #0aa3f5;
+    text-decoration: none;
+}
+
+
